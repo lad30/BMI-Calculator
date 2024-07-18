@@ -42,5 +42,3 @@ Before you begin, ensure you have the following installed:
 3. A new browser window/tab will open with the BMI Calculator.
 4. Enter your weight (in kg) and height (in cm) and click "Calculate BMI" to see your BMI result.
 
-## License
-- This project is licensed under the MIT License - see the LICENSE file for details.
